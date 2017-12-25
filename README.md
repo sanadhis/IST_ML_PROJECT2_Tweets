@@ -136,7 +136,7 @@ Our final result can be reproduced by executing script run.py.
 * Public leaderboard
   - **88.040%** of accuracy.
 * Private Leadeboard
-  - **87.560%%** of accuracy.
+  - **87.560%** of accuracy.
 
 ## How to use models.py
 
